@@ -1,0 +1,12 @@
+/Volumes/T7/git/intro-to-rust-tutorial/lsystems_easy/target/debug/deps/gif-fb76b3ba10881f05.rmeta: /Users/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/lib.rs /Users/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/traits.rs /Users/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/common.rs /Users/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/mod.rs /Users/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/decoder.rs /Users/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/encoder.rs
+
+/Volumes/T7/git/intro-to-rust-tutorial/lsystems_easy/target/debug/deps/libgif-fb76b3ba10881f05.rlib: /Users/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/lib.rs /Users/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/traits.rs /Users/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/common.rs /Users/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/mod.rs /Users/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/decoder.rs /Users/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/encoder.rs
+
+/Volumes/T7/git/intro-to-rust-tutorial/lsystems_easy/target/debug/deps/gif-fb76b3ba10881f05.d: /Users/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/lib.rs /Users/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/traits.rs /Users/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/common.rs /Users/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/mod.rs /Users/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/decoder.rs /Users/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/encoder.rs
+
+/Users/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/lib.rs:
+/Users/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/traits.rs:
+/Users/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/common.rs:
+/Users/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/mod.rs:
+/Users/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/decoder.rs:
+/Users/jason/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/encoder.rs:
